@@ -1,4 +1,4 @@
 import { Observable } from 'rxjs'
 import 'rxjs/add/operator/switchMap';
 
-console.log('lol', (new Observable()).switchMap);
+console.log('switchMap: ', (new Observable()).switchMap);
