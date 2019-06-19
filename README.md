@@ -25,6 +25,6 @@ npx webpack --mode=production
 
 node dist/bundle.js
 # output:
-# switchMap: undefined
+# switchMap: E.of is not a function
 ```
 
